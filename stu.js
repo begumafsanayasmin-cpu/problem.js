@@ -1,6 +1,6 @@
 let studentName="saniya";
 let age=18;
-let course="B.tech";
+const course="B.tech";
 let collegename="SITM";
 let marks=70;
 let birthyear=2007;
