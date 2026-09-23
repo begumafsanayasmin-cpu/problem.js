@@ -10,3 +10,8 @@ let message="";
     }
     return message;
 }
+
+
+console.log(checkTemperature(13));
+console.log(checkTemperature(25));
+console.log(checkTemperature(76));
